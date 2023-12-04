@@ -1,5 +1,4 @@
 ﻿# Human-Image_Segmentation
-<hr>
 This project aims to develop a deep learning-based system for accurately segmenting human figures from images using techniques like U-Net architecture and semantic segmentation.
 
 ## Objective
